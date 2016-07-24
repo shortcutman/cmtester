@@ -15,6 +15,7 @@
 		65A2D5671D44D96D00AB04AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65A2D5651D44D96D00AB04AD /* LaunchScreen.storyboard */; };
 		65A2D5721D44D96D00AB04AD /* cmtesterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A2D5711D44D96D00AB04AD /* cmtesterTests.swift */; };
 		65A2D57D1D44D96D00AB04AD /* cmtesterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A2D57C1D44D96D00AB04AD /* cmtesterUITests.swift */; };
+		65A2D58B1D44E5F100AB04AD /* util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A2D58A1D44E5F100AB04AD /* util.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		65A2D5781D44D96D00AB04AD /* cmtesterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cmtesterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65A2D57C1D44D96D00AB04AD /* cmtesterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cmtesterUITests.swift; sourceTree = "<group>"; };
 		65A2D57E1D44D96D00AB04AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65A2D58A1D44E5F100AB04AD /* util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = util.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				65A2D5631D44D96D00AB04AD /* Assets.xcassets */,
 				65A2D5651D44D96D00AB04AD /* LaunchScreen.storyboard */,
 				65A2D5681D44D96D00AB04AD /* Info.plist */,
+				65A2D58A1D44E5F100AB04AD /* util.swift */,
 			);
 			path = cmtester;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				65A2D55F1D44D96D00AB04AD /* SecondViewController.swift in Sources */,
 				65A2D55B1D44D96D00AB04AD /* AppDelegate.swift in Sources */,
 				65A2D55D1D44D96D00AB04AD /* FirstViewController.swift in Sources */,
+				65A2D58B1D44E5F100AB04AD /* util.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
